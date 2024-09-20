@@ -1,4 +1,7 @@
+*.o
 .vs/
 .vscode/
 build/
+doc/html/
+doc/latex/
 out/
